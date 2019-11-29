@@ -1,0 +1,18 @@
+Control Powerpoint presentation with Andriod.
+Tested with MS Powerpoint 2003.
+
+PC:
+1. Start Slider.jar
+2. Switch to powerpoint window.
+
+Andriod:
+1. Install & start apk.
+2. Set Server IP (First run show device IP)
+3. Set Server Port
+4. Swipe to move slides, pinch to enter & exit fullscreen, 
+    double tap to toggle laser ON/OFF and move mouse by dragging.
+
+
+Copyright © 2014
+Author: Shourav Bin Rabbani
+Website: http://www.shouravbr.com
